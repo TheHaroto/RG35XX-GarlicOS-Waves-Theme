@@ -13,4 +13,10 @@ To install the Boot Loader image copy the boot_logo.bmp.gz file in the Boot Logo
 If you have/want custom boxart and want it to appear like it does on the previews of the theme, you can follow the guide at https://retrogamecorps.com/2023/01/03/anbernic-rg35xx-starter-guide/
 
 There is also a PDF installation guide with this information in the zip files as well.
+
+
+![Warning](https://user-images.githubusercontent.com/131164472/232832932-b1833ca8-ae7b-4c64-a1eb-f24b7d8ac6ac.png)
+
+We recommend doing a back up of your files, specifically the CFW folder, and your boot_logo.bmp.gz before transferring the files just incase something goes wrong!
+
 *****************************************************************
