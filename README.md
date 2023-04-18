@@ -18,6 +18,6 @@ There is also a PDF installation guide with this information in the zip files as
 
 ![Important](https://user-images.githubusercontent.com/131164472/232833324-f22fd0f3-66b7-4636-ab72-b0f99e1d5f20.png)
 
-We recommend doing a back up of your files, specifically the CFW folder, and your boot_logo.bmp.gz before transferring the files just incase something goes wrong!
+We recommend doing a full backup of your files, specifically the CFW folder, and your boot_logo.bmp.gz before transferring the files just incase something goes wrong!
 
 *****************************************************************
