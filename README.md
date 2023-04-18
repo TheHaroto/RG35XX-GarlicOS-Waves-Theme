@@ -15,7 +15,8 @@ If you have/want custom boxart and want it to appear like it does on the preview
 There is also a PDF installation guide with this information in the zip files as well.
 
 
-![Warning](https://user-images.githubusercontent.com/131164472/232832932-b1833ca8-ae7b-4c64-a1eb-f24b7d8ac6ac.png)
+
+![Important](https://user-images.githubusercontent.com/131164472/232833324-f22fd0f3-66b7-4636-ab72-b0f99e1d5f20.png)
 
 We recommend doing a back up of your files, specifically the CFW folder, and your boot_logo.bmp.gz before transferring the files just incase something goes wrong!
 
