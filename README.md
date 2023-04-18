@@ -4,7 +4,8 @@ A collection of themes for the Anbernic RG35XX using GarlicOS
 
 
 *****************************************************************
-INSTALLATION:
+![Installation](https://user-images.githubusercontent.com/131164472/232834106-89506670-4ac3-449c-b033-9df47b06df6a.png)
+
 
 To install your new theme, copy the CFW folder over your CFW folder on your 'ROMs' Drive and replace all files.
 
