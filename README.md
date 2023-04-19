@@ -1,7 +1,9 @@
 # GarlicOS-Themes
 
 A collection of themes for the Anbernic RG35XX using GarlicOS
+*****************************************************************
 
+Download the .7z files and extract them for the theme files
 
 *****************************************************************
 ![Installation](https://user-images.githubusercontent.com/131164472/232834106-89506670-4ac3-449c-b033-9df47b06df6a.png)
